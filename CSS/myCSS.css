@@ -1,0 +1,27 @@
+h2{
+    color: orange;
+}
+span{
+    color: brown
+}
+
+img{
+    width:100px;
+    height: 100px;
+    border-radius: 8%;
+}
+
+
+#pets
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.card{
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 10px;
+}

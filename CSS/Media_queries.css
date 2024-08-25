@@ -1,0 +1,16 @@
+
+.box{
+    background-color: yellow;
+    height: 300px;
+    width: 300px;
+}
+
+@media (width:400px)
+{
+    #Media_queries{
+        background-color: green;
+    }
+
+
+}
+

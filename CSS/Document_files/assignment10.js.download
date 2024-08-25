@@ -1,0 +1,8 @@
+let inp = document.querySelector('input');
+
+inp.addEventListener("keydown",function(el)
+{
+   console.log(inp.value)
+    
+    
+})

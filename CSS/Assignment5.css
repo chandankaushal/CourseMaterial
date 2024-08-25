@@ -1,0 +1,30 @@
+.outer
+{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+
+    border: 2px solid aqua;
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.inner{
+
+    height: 50px;
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: grey;
+    align-items: space-between;
+    font-size: 50px;
+    /* flex-direction: row; */
+    
+
+
+}

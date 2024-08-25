@@ -1,0 +1,39 @@
+.outer{
+
+    height: 400px;
+    width: 400px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+}
+
+.Leye
+{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 120px;
+    left: 100px
+}
+.Reye
+{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 120px;
+    left: 250px
+}
+
+.mouth
+{
+    background-color: brown;
+    height: 30px;
+    width: 200px;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top:280px;
+    left: 100px;
+}
